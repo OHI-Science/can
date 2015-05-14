@@ -4,8 +4,8 @@ branches:
   - draft
 env:
   global:
-  - default_branch_scenario="published/subcountry2014"
-  - study_area="Canada"
+  - default_branch_scenario: "published/subcountry2014"
+  - study_area: "Canada"
   - secure: ass1i8vA6l/yGeNU+VzOaNp9m25cVnkTRw6DDvLk75Jrg2WJp5Dky8kYvuIZDedeyJQygdzUL2pLSNK9cgRrpyEWwzDfLCvZXbA0GvAg+RZ6up6RqCWNCzw9vIUmhEvXLHuTzG6Cofs3CuWZuqGnbWXItwntbVhfV5nEbRyuQJ4=
 matrix:
   fast_finish: true
